@@ -1,0 +1,28 @@
+.basketProduct__content {
+  display: flex;
+}
+
+.basketProduct__info {
+  padding-left: 20px;
+}
+.basketProduct__info > button {
+  background: #f0c14b;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+}
+.basketProduct__image {
+  object-fit: contain;
+  width: 180px;
+  height: 180px;
+}
+
+.basketProduct__title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.basketProduct__rating {
+  display: flex;
+}
